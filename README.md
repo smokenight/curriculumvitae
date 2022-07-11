@@ -2,6 +2,6 @@
 ## Ejemplo para bootcamp de DesafíoLatam
 
 Tecnologías usadas:
-- HTNL5
+- HTML5
 - CSS3
 - Git
